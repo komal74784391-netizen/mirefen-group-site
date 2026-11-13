@@ -1,20 +1,20 @@
 # Site settings
-title: Mirefen Ecosystem Modelling Group
-description: Website of the Mirefen Ecosystem Modelling Group at Larkhaven Institute
+title: Jane Q. Placeholder
+description: Personal academic site built on the Academic Pages theme
 url: ""
 baseurl: ""
 
-repository: ""
+repository: jane-placeholder/jane-placeholder.github.io
 
 author:
-  name: Ilse Marchetti
+  name: Jane Q. Placeholder
   avatar: /images/profile.png
-  bio: Group lead, Mirefen Ecosystem Modelling Group
-  location: Larkhaven Institute
-  email: i.marchetti@larkhaven.example.org
-  scholar_handle: IM-8842
-  staff_id: LH-GL-0042
-  unit_code: ECM
+  bio: Placeholder bio
+  location: Somewhere
+  email: jane.placeholder@example.com
+  scholar_handle: PLACEHOLDER-0000
+  staff_id: PLACEHOLDER-ID
+  unit_code: PLACEHOLDER-UNIT
 
 # Build settings
 markdown: kramdown
