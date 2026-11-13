@@ -1,0 +1,31 @@
+# Site settings
+title: Jane Q. Placeholder
+description: Personal academic site built on the Academic Pages theme
+url: ""
+baseurl: ""
+
+repository: jane-placeholder/jane-placeholder.github.io
+
+author:
+  name: Jane Q. Placeholder
+  avatar: /images/profile.png
+  bio: Placeholder bio
+  location: Somewhere
+  email: jane.placeholder@example.com
+  scholar_handle: PLACEHOLDER-0000
+  staff_id: PLACEHOLDER-ID
+  unit_code: PLACEHOLDER-UNIT
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single

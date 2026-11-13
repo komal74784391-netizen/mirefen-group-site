@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="/assets/css/main.css">
+</head>
+<body>
+  <header>
+    <h1><a href="/">{{ site.title }}</a></h1>
+    <p>{{ site.author.bio }}</p>
+  </header>
+  <main>
+    {{ content }}
+  </main>
+  <footer>&copy; {{ site.author.name }}</footer>
+</body>
+</html>
