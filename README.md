@@ -1,3 +1,9 @@
-# Mirefen Ecosystem Modelling Group
+# Academic Pages site template
 
-Public site of the Mirefen Ecosystem Modelling Group at Larkhaven Institute.
+A minimal Jekyll template for an academic personal or group site.
+
+- `_config.yml` - site metadata, including the `author` identity block
+- `_pages/about.md` - the front page, with YAML front matter and Markdown sections
+- `_layouts/default.html`, `assets/css/main.css` - theme
+
+To use it, copy the template folder and replace the placeholder identity everywhere.
