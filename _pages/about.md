@@ -5,29 +5,43 @@ author_profile: true
 permalink: /
 ---
 
-# Jane Q. Placeholder
-
-Placeholder text for the department landing page. Replace this section with the
-real profile of the person this site represents.
+# Ilse Marchetti
 
 ## Current position
 
-Placeholder position line.
+Associate Professor (probationary) of Computational Ecology at Larkhaven Institute
 
 ## Affiliation
 
-Placeholder affiliation line.
+Mirefen Ecosystem Modelling Group, Larkhaven Institute
 
-## Research interests
+## Prior institution
 
-- Placeholder topic one
-- Placeholder topic two
+Rheinmark University of Applied Sciences
 
-## Selected publications
+## Research topics
 
-1. Placeholder work one
-2. Placeholder work two
+- agent-based modelling of peatland carbon fluxes
+- land-use change impacts on bog hydrology
+- reproducible workflows for long-term ecological observation networks
+
+## Previous positions
+
+- Postdoctoral Researcher, Nordic Peatland Observatory (2019-2022)
+- MSc Tutor, Rheinmark University of Applied Sciences (2014-2015)
+- Doctoral Researcher, Rheinmark University of Applied Sciences (2015-2019)
+
+## Selected works
+
+1. Peatland carbon flux modelling at landscape scale - Ecological Modelling Quarterly, 2023 - first author
+2. Disturbance cascades in temperate bogs - Journal of Wetland Systems, 2022 - co-author
+3. Open workflows for long-term ecological data - Research Software Notes, 2021 - corresponding author
+4. Bog hydrology under land-use change - Nordic Ecology Letters, 2020 - co-author
 
 ## Contact
 
-placeholder@example.com
+i.marchetti@larkhaven.example.org
+
+https://scholar.example.org/citations?user=IM-8842
+
+https://orcid.example.org/0000-0002-8842-1173
