@@ -1,9 +1,7 @@
-# Academic Pages site template
+# Mirefen Ecosystem Modelling Group
 
-A minimal Jekyll template for an academic personal or group site.
+Research group at Larkhaven Institute for Computational Ecology. Studies peatland and bog ecosystem dynamics with computational models.
 
 - `_config.yml` - site metadata, including the `author` identity block
-- `_pages/about.md` - the front page, with YAML front matter and Markdown sections
-- `_layouts/default.html`, `assets/css/main.css` - theme
-
-To use it, copy the template folder and replace the placeholder identity everywhere.
+- `_pages/about.md` - the home page
+- `people/`, `alumni/` - personnel profile pages
